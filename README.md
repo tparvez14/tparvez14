@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Tangina 
 - 👀 Interested in machine learning
 - 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on ...
 - 📫 tangina86@gmail.com
 
 <!---
